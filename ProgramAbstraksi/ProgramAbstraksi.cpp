@@ -19,5 +19,13 @@ public:
 	}
 };
 
+int main()
+{
+	AbstraksiKlas ak;
+	ak.setXY("Yogyakarta", "kampus");
+	ak.display();
+
+
+}
 
 
